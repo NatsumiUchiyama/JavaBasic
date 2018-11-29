@@ -11,12 +11,16 @@ public class PTra01_05 {
 
 		// ★ char型の変数 c を宣言してください
 
+		 String weather = "c";
 
 		// ★ 変数 c に文字「R」を代入してください
 
+		 System.out.println("R");
 
 		// ★ 変数 c の中身を出力してください
 
+		 weather = "c";
+		 System.out.println("weather");
 
 	}
 }

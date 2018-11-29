@@ -11,12 +11,19 @@ public class PTra01_06 {
 
 		// ★ 文字列を格納する変数 str を宣言してください
 
+         String str;
+         str =  "name";
+
 
 		// ★ 変数 str に自分の名前を代入してください
 
+		String name = "内山夏海";
+	    System.out.println(name);
 
 		// ★ 変数 str の中身を出力してください
 
+	    name = "内山夏海";
+		 System.out.println("name");
 
 	}
 }
